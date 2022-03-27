@@ -1,4 +1,4 @@
 # Chigozirim-web.github.io
 
-## Personal website
-### Created with Reactjs
+## Personal website 
+(Created with Reactjs)
